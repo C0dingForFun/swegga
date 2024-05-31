@@ -40,8 +40,9 @@ body {
     text-align: right; 
 	margin: 0; }
 
-caption{
-    font-size:50px;
+h3{
+    font-size: 20px;
+    text-align: center;
     color: #4766B8;
 }
 /* the styles for the table*/
