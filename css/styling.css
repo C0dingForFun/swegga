@@ -45,6 +45,11 @@ h3{
     text-align: center;
     color: #4766B8;
 }
+
+input{
+    width:70px;
+    margin:auto;
+}
 /* the styles for the table*/
 table{
     border:solid 2px black;
